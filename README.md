@@ -2,7 +2,7 @@ A package for modeling and display Prismic articles
 
 ## Features
 
-### FlutterPrismicArticle
+#### FlutterPrismicArticle
 
 A class to handle Prismic article fields.
 A Prismic article contains :
@@ -10,7 +10,7 @@ A Prismic article contains :
     - Content (a list of items)
     - Url (an optional field to specifiy the url on which the article is displayed - used to differentiate internal link from external link)
 
-### PrismicUI
+#### PrismicUI
 
 A class to display article data
 
