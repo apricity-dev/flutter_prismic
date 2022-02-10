@@ -6,9 +6,9 @@ A package that provides a model to parse annd display Prismic articles
 
 A class to parse Prismic article.
 
-A Prismic article contains :
-    - Title
-    - Content (a list of items)
+A Prismic article contains :<br/>
+    - Title<br/>
+    - Content (a list of items)<br/>
     - Url (an optional field to specifiy the url on which the article is displayed - used to differentiate internal link from external link)
 
 #### PrismicUI
