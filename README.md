@@ -1,10 +1,10 @@
-A package for modeling and display Prismic articles
+A package that provides a model to parse annd display Prismic articles 
 
 ## Features
 
 #### FlutterPrismicArticle
 
-A class to handle Prismic article fields.
+A class to parse Prismic article.
 A Prismic article contains :
     - Title
     - Content (a list of items)
@@ -12,7 +12,7 @@ A Prismic article contains :
 
 #### PrismicUI
 
-A class to display article data
+A class to display article data.
 
 ## Getting started
 
